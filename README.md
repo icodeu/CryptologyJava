@@ -17,3 +17,5 @@
 [安全协议和认证服务 @极客学院](http://www.jikexueyuan.com/course/1383.html)
 
 [数字签名的编程使用 @极客学院](http://www.jikexueyuan.com/course/1239.html)
+
+[网站登录模块开发安全加固](http://www.jikexueyuan.com/course/1424.html)
